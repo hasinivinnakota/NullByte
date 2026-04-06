@@ -1,1 +1,1 @@
-build-tracker--hasinivinnakota.replit.app
+https://build-tracker--hasinivinnakota.replit.app/
